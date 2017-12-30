@@ -1,0 +1,153 @@
+2017-Dec-29 23:10:53.253792 INFO [simplewallet] dronecoin wallet v1.1.1.1()
+2017-Dec-29 23:11:51.180635 INFO [simplewallet] Generated new wallet: dr2WyPrTgiZSY1Nif7sVJd6MrUnke7g6M3zB8CV8j5DzWRJvjgozLmfSwZ1xB4YStgWTCQP2SLrkdf5u8qw7zsib1pjBJH1rM
+2017-Dec-29 23:11:51.180635 INFO [simplewallet] view key: bd91bf81e9feed55052d7672de5c19568261cf83a2d782588ed657b43f255508
+2017-Dec-29 23:11:51.180932 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Dec-29 23:12:16.136573 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2017-Dec-29 23:12:22.274682 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2017-Dec-29 23:12:35.184719 INFO [simplewallet] 0
+2017-Dec-29 23:12:41.928350 INFO [simplewallet] Mining started in daemon
+2017-Dec-29 23:12:46.220354 INFO [simplewallet] Height 1, transaction 692bdc3aa655173c87cacfb7ffa0a48eb899fd98757766b34163f357d07ad515, received 87960.88827904
+2017-Dec-29 23:12:46.220580 INFO [simplewallet] Height 2, transaction fcd305f41dc0a613f3a11ac847d7f986010a36dd13efffd5a4c7026498d32375, received 87960.84633602
+2017-Dec-29 23:12:46.220706 INFO [simplewallet] Height 3, transaction ee1f818ecba13d87a1e0759dedb3b3ab32fe33b2bbbb9ac3088c1b178abb58eb, received 87960.80439301
+2017-Dec-29 23:13:23.741552 INFO [simplewallet] available balance: 0.00000000, locked amount: 263882.53900807
+2017-Dec-29 23:14:04.723579 INFO [simplewallet] available balance: 0.00000000, locked amount: 263882.53900807
+2017-Dec-29 23:14:24.989293 INFO [simplewallet] Mining stopped in daemon
+2017-Dec-29 23:14:32.039717 INFO [simplewallet] Mining started in daemon
+2017-Dec-29 23:14:40.168877 INFO [simplewallet] 3
+2017-Dec-29 23:15:06.501393 INFO [simplewallet] available balance: 0.00000000, locked amount: 263882.53900807
+2017-Dec-29 23:15:27.454862 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2017-Dec-29 23:15:41.188571 INFO [simplewallet] Height 4, transaction 0ec1b089538a7f160f35188f54652461569e39c7b0e30e941e3648bfcc9992a7, received 87960.76245003
+2017-Dec-29 23:15:41.214938 INFO [simplewallet]   timestamp (UTC)                                  hash                                    total amount            fee        block   unlock time
+2017-Dec-29 23:15:41.215019 INFO [simplewallet] -------------------------------------------------------------------------------------------------------------------------------------------------
+2017-Dec-29 23:15:41.215162 INFO [simplewallet] 2017-12-29 23:12:41  692bdc3aa655173c87cacfb7ffa0a48eb899fd98757766b34163f357d07ad515        87960.88827904      0.00000000        1           61
+2017-Dec-29 23:15:41.215269 INFO [simplewallet]  
+2017-Dec-29 23:15:41.215379 INFO [simplewallet] 2017-12-29 23:12:41  fcd305f41dc0a613f3a11ac847d7f986010a36dd13efffd5a4c7026498d32375        87960.84633602      0.00000000        2           62
+2017-Dec-29 23:15:41.215478 INFO [simplewallet]  
+2017-Dec-29 23:15:41.215536 INFO [simplewallet] 2017-12-29 23:12:42  ee1f818ecba13d87a1e0759dedb3b3ab32fe33b2bbbb9ac3088c1b178abb58eb        87960.80439301      0.00000000        3           63
+2017-Dec-29 23:15:41.215597 INFO [simplewallet]  
+2017-Dec-29 23:15:41.215646 INFO [simplewallet] 2017-12-29 23:15:38  0ec1b089538a7f160f35188f54652461569e39c7b0e30e941e3648bfcc9992a7        87960.76245003      0.00000000        4           64
+2017-Dec-29 23:15:41.215705 INFO [simplewallet]  
+2017-Dec-29 23:16:02.678737 INFO [simplewallet] available balance: 0.00000000, locked amount: 351843.30145810
+2017-Dec-29 23:17:06.192159 INFO [simplewallet] Height 5, transaction d6183db5acc5bbbb82060b55337dc3c6352cc91219e592fbd384c97331310568, received 87960.72050707
+2017-Dec-29 23:18:17.112970 INFO [simplewallet] available balance: 0.00000000, locked amount: 439804.02196517
+2017-Dec-29 23:20:06.212663 INFO [simplewallet] Height 6, transaction ae8871a71ca4d813a784d7e43e01f5b3bb7bf6ce3b0ec89c8d08165f57e08a0b, received 87960.67856413
+2017-Dec-29 23:21:12.218694 INFO [simplewallet] available balance: 0.00000000, locked amount: 527764.70052930
+2017-Dec-29 23:21:18.996796 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2017-Dec-29 23:21:40.087075 INFO [simplewallet]   timestamp (UTC)                                  hash                                    total amount            fee        block   unlock time
+2017-Dec-29 23:21:40.087202 INFO [simplewallet] -------------------------------------------------------------------------------------------------------------------------------------------------
+2017-Dec-29 23:21:40.087318 INFO [simplewallet] 2017-12-29 23:12:41  692bdc3aa655173c87cacfb7ffa0a48eb899fd98757766b34163f357d07ad515        87960.88827904      0.00000000        1           61
+2017-Dec-29 23:21:40.087400 INFO [simplewallet]  
+2017-Dec-29 23:21:40.087517 INFO [simplewallet] 2017-12-29 23:12:41  fcd305f41dc0a613f3a11ac847d7f986010a36dd13efffd5a4c7026498d32375        87960.84633602      0.00000000        2           62
+2017-Dec-29 23:21:40.087618 INFO [simplewallet]  
+2017-Dec-29 23:21:40.087709 INFO [simplewallet] 2017-12-29 23:12:42  ee1f818ecba13d87a1e0759dedb3b3ab32fe33b2bbbb9ac3088c1b178abb58eb        87960.80439301      0.00000000        3           63
+2017-Dec-29 23:21:40.087775 INFO [simplewallet]  
+2017-Dec-29 23:21:40.087836 INFO [simplewallet] 2017-12-29 23:15:38  0ec1b089538a7f160f35188f54652461569e39c7b0e30e941e3648bfcc9992a7        87960.76245003      0.00000000        4           64
+2017-Dec-29 23:21:40.087918 INFO [simplewallet]  
+2017-Dec-29 23:21:40.087978 INFO [simplewallet] 2017-12-29 23:17:02  d6183db5acc5bbbb82060b55337dc3c6352cc91219e592fbd384c97331310568        87960.72050707      0.00000000        5           65
+2017-Dec-29 23:21:40.088038 INFO [simplewallet]  
+2017-Dec-29 23:21:40.088093 INFO [simplewallet] 2017-12-29 23:20:02  ae8871a71ca4d813a784d7e43e01f5b3bb7bf6ce3b0ec89c8d08165f57e08a0b        87960.67856413      0.00000000        6           66
+2017-Dec-29 23:21:40.088153 INFO [simplewallet]  
+2017-Dec-29 23:22:14.596555 INFO [simplewallet] Wallet closed
+2017-Dec-29 23:22:18.558137 INFO [simplewallet] dronecoin wallet v1.1.1.1()
+2017-Dec-29 23:22:36.540567 INFO [simplewallet] Loading wallet...
+2017-Dec-29 23:22:36.590510 INFO [simplewallet] Opened wallet: dr2WyPrTgiZSY1Nif7sVJd6MrUnke7g6M3zB8CV8j5DzWRJvjgozLmfSwZ1xB4YStgWTCQP2SLrkdf5u8qw7zsib1pjBJH1rM
+2017-Dec-29 23:22:36.590615 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Dec-29 23:22:44.319633 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2017-Dec-29 23:22:46.177624 INFO [simplewallet] available balance: 0.00000000, locked amount: 527764.70052930
+2017-Dec-29 23:23:23.060156 ERROR [simplewallet] Error: expected at least one payment ID
+2017-Dec-29 23:23:28.732432 ERROR [simplewallet] unexpected end of arguments
+2017-Dec-29 23:23:50.894284 INFO [simplewallet] dronecoin wallet v1.1.1.1()
+2017-Dec-29 23:24:09.080600 INFO [simplewallet] Loading wallet...
+2017-Dec-29 23:24:09.135925 INFO [simplewallet] Opened wallet: dr2WyPrTgiZSY1Nif7sVJd6MrUnke7g6M3zB8CV8j5DzWRJvjgozLmfSwZ1xB4YStgWTCQP2SLrkdf5u8qw7zsib1pjBJH1rM
+2017-Dec-29 23:24:09.136116 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Dec-29 23:24:11.518692 INFO [simplewallet] available balance: 0.00000000, locked amount: 527764.70052930
+2017-Dec-29 23:31:27.838746 INFO [simplewallet] available balance: 0.00000000, locked amount: 527764.70052930
+2017-Dec-29 23:31:50.131655 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:9997).
+2017-Dec-29 23:32:05.162024 INFO [simplewallet] Wallet connected to daemon.
+2017-Dec-29 23:39:19.081390 INFO [simplewallet] Mining started in daemon
+2017-Dec-29 23:44:11.620304 INFO [simplewallet] available balance: 0.00000000, locked amount: 527764.70052930
+2017-Dec-29 23:46:06.537490 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:9997).
+2017-Dec-29 23:46:08.567282 INFO [simplewallet] Wallet closed
+2017-Dec-29 23:46:30.485647 INFO [simplewallet] dronecoin wallet v1.1.1.1()
+2017-Dec-29 23:46:45.408537 INFO [simplewallet] Loading wallet...
+2017-Dec-29 23:46:45.647707 INFO [simplewallet] Opened wallet: dr2WyPrTgiZSY1Nif7sVJd6MrUnke7g6M3zB8CV8j5DzWRJvjgozLmfSwZ1xB4YStgWTCQP2SLrkdf5u8qw7zsib1pjBJH1rM
+2017-Dec-29 23:46:45.647902 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Dec-29 23:47:11.135324 INFO [simplewallet] Mining started in daemon
+2017-Dec-29 23:49:43.609028 INFO [simplewallet] available balance: 0.00000000, locked amount: 527764.70052930
+2017-Dec-29 23:49:48.828016 INFO [simplewallet] Wallet closed

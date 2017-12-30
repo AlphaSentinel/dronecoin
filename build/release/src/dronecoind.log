@@ -1,0 +1,508 @@
+2017-Dec-29 23:03:55.903155 INFO [daemon] dronecoin v1.1.1.1()
+2017-Dec-29 23:03:55.903898 INFO [daemon] Module folder: ./dronecoind
+2017-Dec-29 23:03:55.904021 INFO [daemon] Starting in testnet mode!
+2017-Dec-29 23:03:55.909650 INFO [miner] Mining has been stopped, 0 finished
+2017-Dec-29 23:03:55.909945 ERROR [daemon] Exception: Directory does not exist: /dronecoin_testnet/
+2017-Dec-29 23:04:14.195197 INFO [daemon] dronecoin v1.1.1.1()
+2017-Dec-29 23:04:14.195399 INFO [daemon] Module folder: ./dronecoind
+2017-Dec-29 23:04:14.195524 INFO [daemon] Starting in testnet mode!
+2017-Dec-29 23:04:14.196344 INFO [daemon] Initializing p2p server...
+2017-Dec-29 23:04:14.196485 INFO [node_server] Binding on 0.0.0.0:9998
+2017-Dec-29 23:04:14.196640 INFO [node_server] Net service binded on 0.0.0.0:9998
+2017-Dec-29 23:04:14.196719 INFO [node_server] Attempting to add IGD port mapping.
+2017-Dec-29 23:04:18.201473 INFO [node_server] No IGD was found.
+2017-Dec-29 23:04:18.201686 INFO [daemon] P2p server initialized OK
+2017-Dec-29 23:04:18.201810 INFO [daemon] Initializing core...
+2017-Dec-29 23:04:18.201957 ERROR [core] Failed to initialize blockchain storage
+2017-Dec-29 23:04:18.202060 ERROR [daemon] Failed to initialize core
+2017-Dec-29 23:04:18.202189 INFO [miner] Mining has been stopped, 0 finished
+2017-Dec-29 23:08:27.970056 INFO [daemon] dronecoin v1.1.1.1()
+2017-Dec-29 23:08:27.970291 INFO [daemon] Module folder: ./dronecoind
+2017-Dec-29 23:08:27.970428 INFO [daemon] Starting in testnet mode!
+2017-Dec-29 23:08:27.971311 INFO [miner] Mining has been stopped, 0 finished
+2017-Dec-29 23:08:27.971603 ERROR [daemon] Exception: Directory does not exist: home/ubuntu/dronecoin_testnet/
+2017-Dec-29 23:09:04.478388 INFO [daemon] dronecoin v1.1.1.1()
+2017-Dec-29 23:09:04.478587 INFO [daemon] Module folder: ./dronecoind
+2017-Dec-29 23:09:04.478712 INFO [daemon] Starting in testnet mode!
+2017-Dec-29 23:09:04.479511 INFO [daemon] Initializing p2p server...
+2017-Dec-29 23:09:04.479650 INFO [node_server] Binding on 0.0.0.0:9998
+2017-Dec-29 23:09:04.479776 INFO [node_server] Net service binded on 0.0.0.0:9998
+2017-Dec-29 23:09:04.479850 INFO [node_server] Attempting to add IGD port mapping.
+2017-Dec-29 23:09:08.484614 INFO [node_server] No IGD was found.
+2017-Dec-29 23:09:08.484819 INFO [daemon] P2p server initialized OK
+2017-Dec-29 23:09:08.484942 INFO [daemon] Initializing core...
+2017-Dec-29 23:09:08.485158 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2017-Dec-29 23:09:08.510668 INFO [Blockchain] Blockchain initialized. last block: 0, d2004.h18.m9.s8 time ago, current difficulty: 1
+2017-Dec-29 23:09:08.510812 INFO [daemon] Core initialized OK
+2017-Dec-29 23:09:08.510948 INFO [daemon] Starting core rpc server on address 127.0.0.1:9997
+2017-Dec-29 23:09:08.511062 INFO [daemon] Core rpc server started ok
+2017-Dec-29 23:09:08.511138 INFO [daemon] Starting p2p net loop...
+2017-Dec-29 23:09:08.511200 INFO [node_server] Starting node_server
+2017-Dec-29 23:09:08.511296 INFO [core] 
+2017-Dec-29 23:09:08.511296 INFO [core] **********************************************************************
+2017-Dec-29 23:09:08.511296 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Dec-29 23:09:08.511296 INFO [core] 
+2017-Dec-29 23:09:08.511296 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Dec-29 23:09:08.511296 INFO [core] 
+2017-Dec-29 23:09:08.511296 INFO [core] Use "help" command to see the list of available commands.
+2017-Dec-29 23:09:08.511296 INFO [core] 
+2017-Dec-29 23:09:08.511296 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Dec-29 23:09:08.511296 INFO [core] **********************************************************************
+2017-Dec-29 23:12:41.928141 INFO [miner] Mining has started with 1 threads, good luck!
+2017-Dec-29 23:12:41.928590 INFO [miner] Miner thread was started [0]
+2017-Dec-29 23:12:41.954720 INFO [miner] Found block for difficulty: 1
+2017-Dec-29 23:12:42.009668 INFO [miner] Found block for difficulty: 1
+2017-Dec-29 23:12:44.379951 INFO [miner] Found block for difficulty: 120
+2017-Dec-29 23:14:24.988809 INFO [miner] Miner thread stopped [0]
+2017-Dec-29 23:14:24.989115 INFO [miner] Mining has been stopped, 0 finished
+2017-Dec-29 23:14:32.039505 INFO [miner] Mining has started with 1 threads, good luck!
+2017-Dec-29 23:14:32.039902 INFO [miner] Miner thread was started [0]
+2017-Dec-29 23:15:39.433188 INFO [miner] Found block for difficulty: 14520
+2017-Dec-29 23:17:04.299166 INFO [miner] Found block for difficulty: 9927
+2017-Dec-29 23:20:03.355480 INFO [miner] Found block for difficulty: 11296
+2017-Dec-29 23:31:45.211074 INFO [node_server] Stop signal sent
+2017-Dec-29 23:31:45.211176 INFO [node_server] Stopping NodeServer and it's0 connections...
+2017-Dec-29 23:31:45.211431 INFO [node_server] NodeServer loop stopped
+2017-Dec-29 23:31:45.211523 INFO [daemon] p2p net loop stopped
+2017-Dec-29 23:31:45.211613 INFO [daemon] Stopping core rpc server...
+2017-Dec-29 23:31:45.211780 INFO [daemon] Deinitializing core...
+2017-Dec-29 23:31:45.252927 INFO [miner] Miner thread stopped [0]
+2017-Dec-29 23:31:45.253152 INFO [miner] Mining has been stopped, 0 finished
+2017-Dec-29 23:31:45.253311 INFO [Blockchain] Saving blockchain...
+2017-Dec-29 23:31:45.253433 INFO [BlockCacheSerializer] - saving block index...
+2017-Dec-29 23:31:45.253527 INFO [BlockCacheSerializer] - saving transaction map...
+2017-Dec-29 23:31:45.253618 INFO [BlockCacheSerializer] - saving spent keys...
+2017-Dec-29 23:31:45.253706 INFO [BlockCacheSerializer] - saving outputs...
+2017-Dec-29 23:31:45.253778 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2017-Dec-29 23:31:45.253861 INFO [BlockCacheSerializer] Serialization time: 0ms
+2017-Dec-29 23:31:45.253934 INFO [Blockchain] Saving blockchain indices...
+2017-Dec-29 23:31:45.254025 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2017-Dec-29 23:31:45.254095 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2017-Dec-29 23:31:45.254186 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2017-Dec-29 23:31:45.254254 INFO [daemon] Deinitializing p2p...
+2017-Dec-29 23:31:45.254375 INFO [miner] Mining has been stopped, 0 finished
+2017-Dec-29 23:31:45.254604 INFO [daemon] Node stopped.
+2017-Dec-29 23:32:00.900865 INFO [daemon] dronecoin v1.1.1.1()
+2017-Dec-29 23:32:00.941728 INFO [daemon] Module folder: ./dronecoind
+2017-Dec-29 23:32:00.941835 INFO [daemon] Starting in testnet mode!
+2017-Dec-29 23:32:00.942662 INFO [daemon] Initializing p2p server...
+2017-Dec-29 23:32:00.942815 INFO [node_server] Binding on 0.0.0.0:9998
+2017-Dec-29 23:32:00.942939 INFO [node_server] Net service binded on 0.0.0.0:9998
+2017-Dec-29 23:32:00.943013 INFO [node_server] Attempting to add IGD port mapping.
+2017-Dec-29 23:32:04.947041 INFO [node_server] No IGD was found.
+2017-Dec-29 23:32:04.947241 INFO [daemon] P2p server initialized OK
+2017-Dec-29 23:32:04.947385 INFO [daemon] Initializing core...
+2017-Dec-29 23:32:04.947549 INFO [Blockchain] Loading blockchain...
+2017-Dec-29 23:32:04.947725 INFO [BlockCacheSerializer] - loading block index...
+2017-Dec-29 23:32:04.947820 INFO [BlockCacheSerializer] - loading transaction map...
+2017-Dec-29 23:32:04.947899 INFO [BlockCacheSerializer] - loading spent keys...
+2017-Dec-29 23:32:04.947958 INFO [BlockCacheSerializer] - loading outputs...
+2017-Dec-29 23:32:04.948056 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2017-Dec-29 23:32:04.948119 INFO [BlockCacheSerializer] Serialization time: 0ms
+2017-Dec-29 23:32:04.948183 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2017-Dec-29 23:32:04.948270 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2017-Dec-29 23:32:04.948334 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2017-Dec-29 23:32:04.948396 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2017-Dec-29 23:32:04.985253 INFO [Blockchain] Blockchain initialized. last block: 6, d0.h0.m12.s2 time ago, current difficulty: 9759
+2017-Dec-29 23:32:04.985332 INFO [daemon] Core initialized OK
+2017-Dec-29 23:32:04.985453 INFO [daemon] Starting core rpc server on address 127.0.0.1:9997
+2017-Dec-29 23:32:04.985529 INFO [daemon] Core rpc server started ok
+2017-Dec-29 23:32:04.985575 INFO [daemon] Starting p2p net loop...
+2017-Dec-29 23:32:04.985609 INFO [node_server] Starting node_server
+2017-Dec-29 23:32:04.985665 INFO [core] 
+2017-Dec-29 23:32:04.985665 INFO [core] **********************************************************************
+2017-Dec-29 23:32:04.985665 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Dec-29 23:32:04.985665 INFO [core] 
+2017-Dec-29 23:32:04.985665 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Dec-29 23:32:04.985665 INFO [core] 
+2017-Dec-29 23:32:04.985665 INFO [core] Use "help" command to see the list of available commands.
+2017-Dec-29 23:32:04.985665 INFO [core] 
+2017-Dec-29 23:32:04.985665 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Dec-29 23:32:04.985665 INFO [core] **********************************************************************
+2017-Dec-29 23:32:30.164786 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:32:30.164937 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:32:35.165505 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:32:35.165658 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:32:40.166166 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:32:40.166318 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:32:45.166870 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:32:45.167019 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:32:50.167557 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:32:50.167733 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:32:55.168307 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:32:55.168481 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:00.169032 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:00.169181 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:05.169840 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:05.170898 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:10.171512 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:10.171774 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:15.172351 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:15.172593 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:20.173146 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:20.173373 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:25.174032 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:25.174315 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:30.174976 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:30.175190 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:35.175845 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:35.177105 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:40.177749 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:40.178015 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:45.178623 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:45.178877 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:50.179493 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:50.179728 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:33:55.180307 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:33:55.180589 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:00.181203 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:00.181429 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:05.182017 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:05.182925 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:10.183554 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:10.183823 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:15.184505 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:15.184762 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:20.185438 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:20.185805 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:25.186551 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:25.186897 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:30.187492 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:30.187745 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:35.188340 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:35.189380 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:40.190008 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:40.190266 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:45.190969 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:45.191273 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:50.191884 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:50.192130 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:34:55.192786 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:34:55.193042 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:00.193664 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:00.193909 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:05.194525 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:05.195733 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:10.196431 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:10.196806 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:15.197402 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:15.197651 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:20.198283 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:20.198530 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:25.199159 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:25.199403 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:30.200020 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:30.200274 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:35.200935 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:35.202011 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:40.202662 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:40.202913 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:45.203557 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:45.203812 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:50.204410 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:50.204682 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:35:55.205296 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:35:55.205541 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:00.206154 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:00.206397 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:05.207019 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:05.207973 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:10.208592 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:10.208838 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:15.209475 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:15.209718 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:20.210364 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:20.210593 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:25.211196 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:25.211425 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:30.212063 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:30.212322 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:35.213001 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:35.214174 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:40.214769 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:40.215020 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:45.215708 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:45.215975 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:50.216582 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:50.216838 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:36:55.217439 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:36:55.217674 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:00.218315 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:00.218564 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:05.219187 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:05.220177 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:10.220905 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:10.221162 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:15.221804 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:15.222016 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:20.222630 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:20.222864 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:25.223510 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:25.223728 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:30.224382 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:30.224773 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:35.225389 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:35.226335 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:40.226988 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:40.227133 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:45.227807 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:45.228067 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:50.228731 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:50.229022 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:37:55.229694 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:37:55.230039 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:00.230621 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:00.230883 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:05.231556 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:05.231871 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:10.232549 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:10.232783 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:15.233455 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:15.233693 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:20.234342 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:20.234591 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:25.235213 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:25.235451 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:30.236058 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:30.236319 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:35.236974 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:35.237308 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:40.237980 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:40.239120 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:45.239755 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:45.240020 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:50.240613 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:50.240849 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:38:55.241448 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:38:55.241700 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:00.242314 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:00.242559 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:05.243178 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:05.243423 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:10.244019 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:10.244968 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:15.245651 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:15.245980 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:19.077062 DEBUG [HttpServer] Incoming connection from 127.0.0.1:58350
+2017-Dec-29 23:39:19.081217 INFO [miner] Mining has started with 1 threads, good luck!
+2017-Dec-29 23:39:19.081567 DEBUG [HttpServer] Closing connection from 127.0.0.1:58350 total=2
+2017-Dec-29 23:39:19.081718 INFO [miner] Miner thread was started [0]
+2017-Dec-29 23:39:20.246532 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:20.246744 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:25.247250 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:25.247497 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:30.248049 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:30.248283 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:35.248858 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:35.249074 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:40.249667 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:40.250630 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:45.251239 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:45.251484 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:50.255305 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:50.255551 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:39:55.281675 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:39:55.281911 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:00.296410 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:00.296681 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:05.297260 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:05.297528 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:10.298102 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:10.299074 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:15.299659 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:15.299905 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:20.300419 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:20.300684 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:25.305187 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:25.305395 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:30.332266 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:30.332518 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:35.356121 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:35.356351 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:40.378240 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:40.379427 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:45.403376 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:45.403608 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:50.430227 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:50.430470 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:40:55.450844 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:40:55.451098 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:00.463260 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:00.463505 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:05.464074 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:05.464323 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:10.464889 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:10.465801 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:15.499389 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:15.499640 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:20.525838 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:20.526086 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:25.555856 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:25.556107 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:30.581701 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:30.581947 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:35.582533 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:35.582811 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:40.601819 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:40.602931 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:45.623909 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:45.624180 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:50.646201 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:50.646460 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:41:55.669017 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:41:55.669284 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:00.691940 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:00.692214 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:05.697813 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:05.698058 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:10.717954 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:10.719042 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:15.740597 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:15.740882 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:20.762666 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:20.762915 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:25.790558 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:25.790816 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:30.817979 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:30.818218 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:35.837774 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:35.838048 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:40.856723 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:40.857695 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:45.869730 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:45.870094 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:50.875797 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:50.876049 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:42:55.888405 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:42:55.888652 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:43:00.903678 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:43:00.903946 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:43:05.912298 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:43:05.912667 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:43:10.934910 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:43:10.936194 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:43:15.951375 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:43:15.951733 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:43:20.965806 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:43:20.966067 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:43:25.991943 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:43:25.992160 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:43:31.010295 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:43:31.010553 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:43:36.024036 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:43:36.024301 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:43:41.043856 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:43:41.044759 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:43:46.052173 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:43:46.052453 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:43:51.067474 TRACE [RpcServer] JSON-RPC request: {"jsonrpc":"2.0","method":"getlastblockheader","params":{}}
+2017-Dec-29 23:43:51.067709 TRACE [RpcServer] JSON-RPC response: {"jsonrpc":"2.0","result":{"block_header":{"depth":0,"difficulty":11296,"hash":"d9d55e293d17e18725ee9bd9eb74cc0a3ae5ce3282b90d51776c085cf8d2fbb3","height":6,"major_version":1,"minor_version":0,"nonce":3782579168,"orphan_status":false,"prev_hash":"9414309d030b398a5603d3949d85f7650f3945d8c8486f5f0c785382f30ee329","reward":8796067856413,"timestamp":1514589602},"status":"OK"}}
+2017-Dec-29 23:46:04.617069 INFO [node_server] Stop signal sent
+2017-Dec-29 23:46:04.617188 INFO [node_server] Stopping NodeServer and it's0 connections...
+2017-Dec-29 23:46:04.617496 INFO [node_server] NodeServer loop stopped
+2017-Dec-29 23:46:04.617600 INFO [daemon] p2p net loop stopped
+2017-Dec-29 23:46:04.617688 INFO [daemon] Stopping core rpc server...
+2017-Dec-29 23:46:04.617817 INFO [daemon] Deinitializing core...
+2017-Dec-29 23:46:04.658062 INFO [miner] Miner thread stopped [0]
+2017-Dec-29 23:46:04.658332 INFO [miner] Mining has been stopped, 0 finished
+2017-Dec-29 23:46:04.658544 INFO [Blockchain] Saving blockchain...
+2017-Dec-29 23:46:04.658665 INFO [BlockCacheSerializer] - saving block index...
+2017-Dec-29 23:46:04.658750 INFO [BlockCacheSerializer] - saving transaction map...
+2017-Dec-29 23:46:04.658814 INFO [BlockCacheSerializer] - saving spent keys...
+2017-Dec-29 23:46:04.658869 INFO [BlockCacheSerializer] - saving outputs...
+2017-Dec-29 23:46:04.658930 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2017-Dec-29 23:46:04.658985 INFO [BlockCacheSerializer] Serialization time: 0ms
+2017-Dec-29 23:46:04.659066 INFO [Blockchain] Saving blockchain indices...
+2017-Dec-29 23:46:04.659177 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2017-Dec-29 23:46:04.659255 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2017-Dec-29 23:46:04.659326 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2017-Dec-29 23:46:04.659427 INFO [daemon] Deinitializing p2p...
+2017-Dec-29 23:46:04.659600 INFO [miner] Mining has been stopped, 0 finished
+2017-Dec-29 23:46:04.659831 INFO [daemon] Node stopped.
+2017-Dec-29 23:46:24.517799 INFO [daemon] dronecoin v1.1.1.1()
+2017-Dec-29 23:46:24.517996 INFO [daemon] Module folder: ./dronecoind
+2017-Dec-29 23:46:24.518111 INFO [daemon] Starting in testnet mode!
+2017-Dec-29 23:46:24.518970 INFO [daemon] Initializing p2p server...
+2017-Dec-29 23:46:24.519114 INFO [node_server] Binding on 0.0.0.0:9998
+2017-Dec-29 23:46:24.519220 INFO [node_server] Net service binded on 0.0.0.0:9998
+2017-Dec-29 23:46:24.519291 INFO [node_server] Attempting to add IGD port mapping.
+2017-Dec-29 23:46:28.524054 INFO [node_server] No IGD was found.
+2017-Dec-29 23:46:28.524343 INFO [daemon] P2p server initialized OK
+2017-Dec-29 23:46:28.524459 INFO [daemon] Initializing core...
+2017-Dec-29 23:46:28.524668 INFO [Blockchain] Loading blockchain...
+2017-Dec-29 23:46:28.524840 INFO [BlockCacheSerializer] - loading block index...
+2017-Dec-29 23:46:28.524916 INFO [BlockCacheSerializer] - loading transaction map...
+2017-Dec-29 23:46:28.524988 INFO [BlockCacheSerializer] - loading spent keys...
+2017-Dec-29 23:46:28.525059 INFO [BlockCacheSerializer] - loading outputs...
+2017-Dec-29 23:46:28.525153 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2017-Dec-29 23:46:28.525212 INFO [BlockCacheSerializer] Serialization time: 0ms
+2017-Dec-29 23:46:28.525288 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2017-Dec-29 23:46:28.525375 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2017-Dec-29 23:46:28.525451 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2017-Dec-29 23:46:28.525508 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2017-Dec-29 23:46:28.525631 INFO [Blockchain] Blockchain initialized. last block: 6, d0.h0.m26.s26 time ago, current difficulty: 9759
+2017-Dec-29 23:46:28.525704 INFO [daemon] Core initialized OK
+2017-Dec-29 23:46:28.525813 INFO [daemon] Starting core rpc server on address 127.0.0.1:9997
+2017-Dec-29 23:46:28.525917 INFO [daemon] Core rpc server started ok
+2017-Dec-29 23:46:28.525986 INFO [daemon] Starting p2p net loop...
+2017-Dec-29 23:46:28.526044 INFO [node_server] Starting node_server
+2017-Dec-29 23:46:28.526122 INFO [core] 
+2017-Dec-29 23:46:28.526122 INFO [core] **********************************************************************
+2017-Dec-29 23:46:28.526122 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Dec-29 23:46:28.526122 INFO [core] 
+2017-Dec-29 23:46:28.526122 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Dec-29 23:46:28.526122 INFO [core] 
+2017-Dec-29 23:46:28.526122 INFO [core] Use "help" command to see the list of available commands.
+2017-Dec-29 23:46:28.526122 INFO [core] 
+2017-Dec-29 23:46:28.526122 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Dec-29 23:46:28.526122 INFO [core] **********************************************************************
+2017-Dec-29 23:47:11.135098 INFO [miner] Mining has started with 1 threads, good luck!
+2017-Dec-29 23:47:11.135546 INFO [miner] Miner thread was started [0]
+2017-Dec-29 23:48:51.580487 INFO [node_server] 
+2017-Dec-29 23:48:51.580487 INFO [node_server] Peerlist white:
+2017-Dec-29 23:48:51.580487 INFO [node_server] 
+2017-Dec-29 23:48:51.580487 INFO [node_server] Peerlist gray:
+2017-Dec-29 23:56:03.998521 INFO [miner] Miner thread stopped [0]
+2017-Dec-29 23:56:03.998924 INFO [miner] Mining has been stopped, 0 finished
+2017-Dec-29 23:56:52.840484 INFO [miner] Mining has started with 20 threads, good luck!
+2017-Dec-29 23:56:52.840646 INFO [miner] Miner thread was started [13]
+2017-Dec-29 23:56:52.840758 INFO [miner] Miner thread was started [14]
+2017-Dec-29 23:56:52.840798 INFO [miner] Miner thread was started [15]
+2017-Dec-29 23:56:52.840808 INFO [miner] Miner thread was started [16]
+2017-Dec-29 23:56:52.840818 INFO [miner] Miner thread was started [18]
+2017-Dec-29 23:56:52.840828 INFO [miner] Miner thread was started [5]
+2017-Dec-29 23:56:52.840837 INFO [miner] Miner thread was started [6]
+2017-Dec-29 23:56:52.840869 INFO [miner] Miner thread was started [10]
+2017-Dec-29 23:56:52.840874 INFO [miner] Miner thread was started [7]
+2017-Dec-29 23:56:52.840879 INFO [miner] Miner thread was started [8]
+2017-Dec-29 23:56:52.840884 INFO [miner] Miner thread was started [9]
+2017-Dec-29 23:56:52.840888 INFO [miner] Miner thread was started [11]
+2017-Dec-29 23:56:52.840892 INFO [miner] Miner thread was started [12]
+2017-Dec-29 23:56:52.840897 INFO [miner] Miner thread was started [17]
+2017-Dec-29 23:56:52.840901 INFO [miner] Miner thread was started [19]
+2017-Dec-29 23:56:52.844953 INFO [miner] Miner thread was started [4]
+2017-Dec-29 23:56:52.894199 INFO [miner] Miner thread was started [3]
+2017-Dec-29 23:56:52.894377 INFO [miner] Miner thread was started [2]
+2017-Dec-29 23:56:52.894398 INFO [miner] Miner thread was started [1]
+2017-Dec-29 23:56:52.894405 INFO [miner] Miner thread was started [0]
+2017-Dec-29 23:57:55.931354 INFO [miner] Miner thread stopped [18]
+2017-Dec-29 23:57:56.177442 INFO [miner] Miner thread stopped [1]
+2017-Dec-29 23:57:56.343977 INFO [miner] Miner thread stopped [19]
+2017-Dec-29 23:57:56.962976 INFO [miner] Miner thread stopped [11]
+2017-Dec-29 23:57:57.122884 INFO [miner] Miner thread stopped [15]
+2017-Dec-29 23:57:57.822966 INFO [miner] Miner thread stopped [4]
+2017-Dec-29 23:57:57.989504 INFO [miner] Miner thread stopped [0]
+2017-Dec-29 23:57:58.031072 INFO [miner] Miner thread stopped [12]
+2017-Dec-29 23:57:58.651552 INFO [miner] Miner thread stopped [5]
+2017-Dec-29 23:57:58.730391 INFO [miner] Miner thread stopped [16]
+2017-Dec-29 23:57:58.772562 INFO [miner] Miner thread stopped [10]
+2017-Dec-29 23:57:58.816636 INFO [miner] Miner thread stopped [6]
+2017-Dec-29 23:57:58.858624 INFO [miner] Miner thread stopped [2]
+2017-Dec-29 23:57:59.187746 INFO [miner] Miner thread stopped [8]
+2017-Dec-29 23:57:59.391172 INFO [miner] Miner thread stopped [9]
+2017-Dec-29 23:57:59.969583 INFO [miner] Miner thread stopped [14]
+2017-Dec-29 23:58:00.089100 INFO [miner] Miner thread stopped [13]
+2017-Dec-29 23:58:00.258040 INFO [miner] Miner thread stopped [3]
+2017-Dec-29 23:58:00.378258 INFO [miner] Miner thread stopped [7]
+2017-Dec-29 23:58:00.417136 INFO [miner] Miner thread stopped [17]
+2017-Dec-29 23:58:00.417366 INFO [miner] Mining has been stopped, 0 finished
